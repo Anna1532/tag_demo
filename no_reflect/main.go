@@ -26,5 +26,4 @@ func main() {
 	for _,err:=range(vd.Errors){
 		fmt.Println(err.Error())
 	}
-	//TODO:啊啊啊啊报错啦，获取不到标签中的规定长度
 }
